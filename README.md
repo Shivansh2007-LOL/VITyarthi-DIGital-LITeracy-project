@@ -19,20 +19,25 @@ digital-literacy-project
  report
  Project_Report.pdf
  task-1-presentation/ infographic.png
+ 
  task-2-portfolio
  github-profile.png
  linkedin-profile.png
  kaggle-profile.png
+ 
  task-3-platforms
  hackerrank-challenge.png
  google-form.png
  google-sheet-responses.png
+ 
  task-4-email-etiquette
  email-drafts.pdf
  social-media-checklist.md
+ 
  task-5-cybercrime
  casestudy.md
  prevention-checklist.md
+ 
  Task Summaries
  Task 1 – Digital Literacy Awareness Infographic
 Module 1 | Tool: Canva
