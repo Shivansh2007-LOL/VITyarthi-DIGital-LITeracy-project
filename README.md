@@ -59,7 +59,7 @@ Part A: Completed a beginner coding challenge on HackerRank.
 Part B: Built a 5-question Digital Literacy Awareness Quiz using Google Forms, with multiple choice and short answer questions. Responses are tracked via a linked Google Sheet.
  Screenshots: task-3-platforms/
 
-✉️ Task 4 – Professional Email & Etiquette Guide
+ Task 4 – Professional Email & Etiquette Guide
 Module 4
 
 Email 1 – Student requesting a deadline extension from a professor
@@ -94,5 +94,5 @@ VIT Bhopal University – Digital Literacy Project
 Canva – canva.com
 HackerRank – hackerrank.com
 Google Forms – https://docs.google.com/forms/d/e/1FAIpQLSdaC1iKrnPo3_K513hMtO2qIXZhprMnxV7aDl7eF_pYpGG6-g/viewform?usp=dialog
-National Cyber Crime Portal – cybercrime.gov.in
+National Cyber Crime Portal – cybercrime.gov.in /
                                                                        B.Tech CSE | VIT Bhopal University
