@@ -90,9 +90,9 @@ Project Report
 Full written report: report/Project_Report.pdf
 
 References
-VIT Bhopal University – Digital Literacy Project
-Canva – canva.com
-HackerRank – hackerrank.com
-Google Forms – https://docs.google.com/forms/d/e/1FAIpQLSdaC1iKrnPo3_K513hMtO2qIXZhprMnxV7aDl7eF_pYpGG6-g/viewform?usp=dialog
-National Cyber Crime Portal – cybercrime.gov.in /
+VIT Bhopal University – Digital Literacy Project;
+Canva – canva.com;
+HackerRank – hackerrank.com;
+Google Forms – https://docs.google.com/forms/d/e/1FAIpQLSdaC1iKrnPo3_K513hMtO2qIXZhprMnxV7aDl7eF_pYpGG6-g/viewform?usp=dialog;
+National Cyber Crime Portal – cybercrime.gov.in 
                                                                    
