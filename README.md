@@ -1,14 +1,21 @@
 # VITyarthi-DIGital-LITeracy-project
  Digital Literacy | VIT Bhopal University
-Student Details
-Field	Details
-Name	Shivansh BIrthare
-Registration No.	25BCE11196
-Branch	B.Tech – CSE
+ 
+Details
+
+Name	- Shivansh BIrthare
+
+Registration No. -	25BCE11196
+
+Branch --	B.Tech – CSE
+
 Course – Digital Literacy
-Institution	VIT Bhopal University
+
+Institution -	VIT Bhopal University
+
 Academic Year	2025–26
-Project Overview
+
+Project Overview -
 This repository is about my Digital Literacy Portfolio. I completed five tasks covering the main points about digital literacy — designing ppt , building a professional online presence, exploring coding platforms, practising email etiquette, and researching cybercrime awareness.
 
 Repository Structure
@@ -40,6 +47,7 @@ digital-literacy-project
  
  Task Summaries
  Task 1 – Digital Literacy Awareness Infographic
+ 
 Module 1 | Tool: Canva
 
 Designed a one-page infographic using Canva to help batchmates understand digital literacy. The infographic covers what digital literacy means, safe internet practices, and how to build a professional online presence.
@@ -47,14 +55,19 @@ Designed a one-page infographic using Canva to help batchmates understand digita
  File: task-1-presentation/infographic.png
 
  Task 2 – Student Digital Portfolio
+ 
 Module 2 | Platforms: GitHub, LinkedIn, Kaggle
 
 Set up and updated professional profiles on three platforms:
 
 Platform	Purpose
+
   GitHub	Code hosting and project portfolio
+  
   LinkedIn	Professional networking and career profile
+  
   Kaggle	Data science and machine learning community
+  
   Screenshots: task-2-portfolio
 
  Task 3 – Coding & Collaboration Platforms
@@ -69,7 +82,9 @@ Module 4
 
 Email 1 – Student requesting a deadline extension from a professor
 Email 2 – Student expressing interest in a summer internship opportunity
+
 Checklist – Social Media Do's and Don'ts for college students
+
  Files: task-4-email-etiquette/
 
  Task 5 – Cybercrime Awareness: Phishing
@@ -82,16 +97,26 @@ Report cybercrime at: cybercrime.gov.in | Helpline: 1930 (24×7)
 Files: task-5-cybercrime
 
 Tools & Platforms Used
+
 Tool / Platform	Used For
 Canva	Infographic design (Task 1)
+
 GitHub	Code hosting and digital portfolio (Task 2)
+
 LinkedIn	Professional networking profile (Task 2)
+
 Kaggle	Data science and ML community (Task 2)
+
 HackerRank	Coding challenge practice (Task 3)
+
 Google Forms	Digital Literacy Quiz (Task 3)
+
 Google Sheets	Quiz response tracking (Task 3)
+
 cybercrime.gov.in	Cyber safety reference (Task 5)
+
 Project Report
+
 Full written report: report/Project_Report.pdf
 
 References
